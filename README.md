@@ -46,7 +46,7 @@ pod 'StorageCleaner'
 
 ## Contributing
 
-As the creators, and maintainers of this project, we're glad to invite contributors to help us stay up to date. Please take a moment to review [the contributing document](https://github.com/gojek/StorageToolKit-iOS/blob/main/CONTRIBUTING.md) in order to make the contribution process easy and effective for everyone involved.
+As the creators, and maintainers of this project, we're glad to invite contributors to help us stay up to date. Please take a moment to review [the contributing document](.github/CONTRIBUTING.md) in order to make the contribution process easy and effective for everyone involved.
 
 - If you **found a bug**, open an [issue](https://github.com/gojek/StorageToolKit-iOS/issues).
 - If you **have a feature request**, open an [issue](https://github.com/gojek/StorageToolKit-iOS/issues).
@@ -54,4 +54,4 @@ As the creators, and maintainers of this project, we're glad to invite contribut
 
 ## License
 
-**StorageToolKit-iOS** is available under the MIT license. See the [LICENSE](https://github.com/gojek/StorageToolKit-iOS/blob/main/LICENSE) file for more info.
+**StorageToolKit-iOS** is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
