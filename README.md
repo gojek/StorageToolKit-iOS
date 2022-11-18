@@ -42,7 +42,7 @@ pod 'StorageCleaner'
 
 ## Usage 
 
-* For StorageCleaner usage refer StorageCleaner/README.md
+* For StorageCleaner usage refer [StorageCleaner/README.md](StorageCleaner/README.md)
 
 ## Contributing
 
