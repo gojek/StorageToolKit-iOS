@@ -34,7 +34,7 @@ jobs:
             generate-documentation --target StorageCleaner \
             --disable-indexing \
             --transform-for-static-hosting \
-            --hosting-base-path StorageCleaner \
+            --hosting-base-path StorageToolKit-iOS \
             --output-path ./public
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
