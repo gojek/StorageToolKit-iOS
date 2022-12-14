@@ -44,6 +44,11 @@ pod 'StorageCleaner'
 
 * For StorageCleaner usage refer [StorageCleaner/README.md](StorageCleaner/README.md)
 
+## Documentation
+
+* For StorageCleaner documentation refer [StorageCleaner](https://gojek.github.io/StorageToolKit-iOS/documentation/storagecleaner)
+* Read the getting started article at [here](https://gojek.github.io/StorageToolKit-iOS/documentation/storagecleaner/gettingstarted)
+
 ## Contributing
 
 As the creators, and maintainers of this project, we're glad to invite contributors to help us stay up to date. Please take a moment to review [the contributing document](.github/CONTRIBUTING.md) in order to make the contribution process easy and effective for everyone involved.
