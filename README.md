@@ -26,7 +26,7 @@ Once you have your Swift package set up, adding StorageToolKit-iOS as a dependen
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/gojekfarm/StorageToolKit-iOS.git", .upToNextMajor(from: "0.0.9"))
+    .package(url: "https://github.com/gojekfarm/StorageToolKit-iOS.git", .upToNextMajor(from: "0.9.0"))
 ]
 ```
 
