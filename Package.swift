@@ -14,7 +14,7 @@ let package = Package(
             type: .static, targets: ["StorageCleaner"])
     ],
     dependencies: [
-        .package(url: "git@github.com:gojekfarm/WorkManager.git", branch: "main"),
+        .package(url: "https://github.com/gojek/WorkManager.git", branch: "0.10.0"),
         .package(url: "https://github.com/apple/swift-docc-plugin.git", from: "1.0.0")],
     targets: [
         .target(
